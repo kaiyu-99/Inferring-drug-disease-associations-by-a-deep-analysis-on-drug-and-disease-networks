@@ -1,1 +1,1 @@
-***notice***: Score results were obtained for all potential negative samples calculated based on drug similarity scores.
+***Notice***: Scores for all unlabeled samples are calculated based on drug similarity scores (i.e., direct neighbors of drugs).
