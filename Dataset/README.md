@@ -1,3 +1,3 @@
-1.	***data***/ : It contains the real drug-disease association downloaded from the CTD database, extracts the chemical-disease association with "DirectEvidence", and then maps the chemical ID in each association to the corresponding DrugBank ID, resulting in 63472 chemical-disease associations. Because a chemical substance corresponds to a drug, these associations can be considered as drug-disease associations. There are 2794 drugs (represented by DrugBank IDs) and 3019 diseases (identified by MESH or OMIM).<br>
-2.	 ***feature_vector*** / : Input file of the weka , It contains two features: Drug features and disease features in different dimensions.
+1.	***data***/ : This folder contains drug-disease associations retrieved from CTD along with drug IDs and disease IDs used in these associations.<br>
+2.	 ***feature_vector*** / : The representations of drugs and diseases.
 
