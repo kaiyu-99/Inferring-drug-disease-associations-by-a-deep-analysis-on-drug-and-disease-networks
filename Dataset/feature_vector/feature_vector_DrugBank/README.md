@@ -1,1 +1,1 @@
-***DrugBank_1000_x.csv***: These five 1000-dimensional feature subfiles are spliced together to form the 1000-dimensional drug feature.
+***DrugBank_1000_x.csv***: These files can be combined together to obtain the 1000-dimension vectors of drugs.
